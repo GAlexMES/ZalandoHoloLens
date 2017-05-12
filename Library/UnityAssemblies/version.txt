@@ -1,0 +1,11 @@
+5.6.0f3:3.1.0.0
+StandaloneWindows
+C:/MyPrograms/64Bit/Editor/Data/Managed/UnityEngine.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+C:/MyPrograms/64Bit/Editor/Data/Managed/UnityEditor.dll
