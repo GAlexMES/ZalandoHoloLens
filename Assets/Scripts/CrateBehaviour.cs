@@ -15,7 +15,10 @@ public class CrateBehaviour : MonoBehaviour {
 			for (int j = 0; j < 4; j++) {
 				GameObject bottle = Instantiate (bottleSlotPrefab, this.transform);
 				bottle.transform.position = bottle.transform.parent.TransformPoint (-0.4f + 0.2f*i, 0.0f, -0.375f + 0.25f*j);
-				bottles [i, j] = bottle;
+				bottles [i, j] = bottle;		
+				Renderer rend = bottles [i, j].GetComponent<Renderer> ();
+				rend.enabled = false;
+
 			}
 		}
 	
@@ -28,5 +31,16 @@ public class CrateBehaviour : MonoBehaviour {
 
 	void OnSelect(){
 		this.gameObject.AddComponent<Rigidbody> ();
+	}
+
+	void OnCollisionEnter(){
+		Renderer rend = GetComponent<Renderer> ();
+		rend.enabled = false;
+		for (int i = 0; i < 5; i++) {
+			for (int j = 0; j < 4; j++) {
+				rend = bottles [i, j].GetComponent<Renderer> ();
+				rend.enabled = true;
+			}
+		}
 	}
 }
