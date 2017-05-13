@@ -10,3 +10,16 @@ C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEdito
 C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
 C:/MyPrograms/64Bit/Editor/Data/Managed/UnityEditor.dll
 C:/MyPrograms/64Bit/Editor/Data/Managed/Mono.Cecil.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll
+C:/MyPrograms/64Bit/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll
+C:/MyPrograms/64Bit/Editor/Data/Managed/UnityEditor.Graphs.dll
+C:/MyPrograms/64Bit/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll
+C:/MyPrograms/64Bit/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

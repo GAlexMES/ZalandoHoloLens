@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZalandoHoloLens", "ZalandoHoloLens.csproj", "{88B9A2CE-9515-9D3A-EBEA-2591A7B8EC43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZalandoHoloLens.Editor", "ZalandoHoloLens.Editor.csproj", "{FFBE44EB-2BCD-184F-B81C-9E882809C64D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{88B9A2CE-9515-9D3A-EBEA-2591A7B8EC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B9A2CE-9515-9D3A-EBEA-2591A7B8EC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88B9A2CE-9515-9D3A-EBEA-2591A7B8EC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFBE44EB-2BCD-184F-B81C-9E882809C64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE44EB-2BCD-184F-B81C-9E882809C64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE44EB-2BCD-184F-B81C-9E882809C64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE44EB-2BCD-184F-B81C-9E882809C64D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
